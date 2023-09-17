@@ -1,1 +1,1 @@
-# MultivariateStatistics
+# Statistics
